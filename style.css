@@ -45,3 +45,9 @@ a:hover, a:active {
     width: 50%;
     padding: 10px;
 }
+.pic{
+    display: block;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}

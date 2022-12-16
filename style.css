@@ -1,0 +1,47 @@
+.font1{
+    
+    height: 95.0px;
+    font-family: Algerian;
+    font-size: 72.0px;
+    font-weight: 400;
+    color: #E0A81A;
+    text-align:center;
+} 
+.font2{
+    height: 63.0px;
+    font-family: Algerian;
+    font-size: 36.0px;
+    font-weight: 400;
+    color: #E0A81A;
+    text-align:center;
+}
+.font3{
+    height: 36.0px;
+    font-family: Algerian;
+    font-size: 28.0px;
+    font-weight: 400;
+    color: #E0A81A;
+    text-align: center;
+}
+a:link, a:visited {
+    background-color: #e0a81a00;
+    border: 2px solid #E0A81A;
+    color: #E0A81A;
+    padding: 14px 25px;
+    text-align: center;
+    font-family: Algerian;
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+a:hover, a:active {
+    background-color: #E0A81A;
+    color: white;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
